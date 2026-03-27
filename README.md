@@ -1,6 +1,6 @@
 # ExperimentOneData
 
-Experimental data for the paper: *[TODO: paper title and link]*.
+Experimental data for the paper: [The Order Is The Message](https://arxiv.org/abs/2603.25047).
 
 This repository contains the complete training output -- per-epoch metrics, model checkpoints, and configuration snapshots -- for all four data ordering strategies studied in the paper. For the training framework, experiment code, analysis tools, and reproduction instructions, see the companion code repository: [OrderedLearning](https://github.com/JordanRL/OrderedLearning).
 
